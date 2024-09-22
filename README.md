@@ -84,7 +84,7 @@ Hardware – PCs, Cyclone II , USB flasher
 ![2RD](https://github.com/user-attachments/assets/2a887bb4-034e-41ed-ba69-77c2cd68fad7)
 
 
-**Output:**
+**OUTPUT**
 
 ![2RDD](https://github.com/user-attachments/assets/316d5625-8c33-44bd-bb50-bc9f96576db4)
 
